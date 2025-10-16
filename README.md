@@ -47,14 +47,10 @@ dχ_obs/dλ = (χ_true − χ_obs) / τ_inertia
 ├── LICENSE                    # e.g., CC BY 4.0  
 └── README.md
 
-## Versioning and DOI
-Releases follow semantic versioning (v1.0, v1.1, v2.0). Each GitHub Release is archived on Zenodo and assigned: a **version DOI** (this release) and a stable **concept DOI** (points to the latest version).
-
-**Concept DOI:** https://doi.org/REPLACE_WITH_CONCEPT_DOI  
-**This version DOI (v1.0):** https://doi.org/REPLACE_WITH_VERSION_DOI
-
+**Concept DOI:** https://doi.org/10.5281/zenodo.17373020
+**This version DOI (v1.0):** https://doi.org/10.5281/zenodo.17373021
 ## How to cite
-M. Wlodarczyk, “**Implosive Edge Hypothesis (IEH) and the Change Measure Δ — concept note**,” Zenodo, v1.0, 2025. DOI: https://doi.org/REPLACE_WITH_VERSION_DOI.
+M. Wlodarczyk, “**Implosive Edge Hypothesis (IEH) and the Change Measure Δ — concept note**,” Zenodo, v1.0, 2025. DOI: https://doi.org/10.5281/zenodo.17373021.
 
 **BibTeX**
 @misc{ieh_delta_concept_v1,
@@ -63,8 +59,8 @@ M. Wlodarczyk, “**Implosive Edge Hypothesis (IEH) and the Change Measure Δ �
   year         = {2025},
   version      = {v1.0},
   publisher    = {Zenodo},
-  doi          = {REPLACE_WITH_VERSION_DOI},
-  url          = {https://doi.org/REPLACE_WITH_VERSION_DOI}
+  doi          = {[10.5281/zenodo.17373021)},
+  url          = {[https://doi.org/10.5281/zenodo.17373021)}
 }
 
 ## License
@@ -74,3 +70,6 @@ If any code/scripts are included, consider **MIT** or **Apache-2.0** for them.
 ## Contact
 Author: **Mariusz Wlodarczyk**
 Contact: **mariusz.wlodarczyk@hotmail.com**
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17373021.svg)](https://doi.org/10.5281/zenodo.17373021)
+**Latest release (v1.0.2):** https://doi.org/10.5281/zenodo.17373021
