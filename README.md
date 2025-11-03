@@ -41,10 +41,10 @@ dχ_obs/dλ = (χ_true − χ_obs) / τ_inertia
 
 ## Repository layout
 / (root)  
-├── IEH_ChangeMeasure_Delta_concept_note_v1.0.pdf # main PDF  
+├── IEH_ChangeMeasure_Delta_concept_note_v1.0.pdf  # main PDF  
 ├── figures/                     # optional figures (PNG/SVG/PDF)  
-├── tex/                       # optional TeX sources (if used)  
-├── LICENSE                    # e.g., CC BY 4.0  
+├── tex/                         # optional TeX sources (if used)  
+├── LICENSE                      # e.g., CC BY 4.0  
 └── README.md
 
 **Concept DOI:** https://doi.org/10.5281/zenodo.17373020
