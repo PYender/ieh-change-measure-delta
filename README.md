@@ -51,7 +51,11 @@ dχ_obs/dλ = (χ_true − χ_obs) / τ_inertia
 **Concept DOI:** https://doi.org/10.5281/zenodo.17373020
 **This version DOI (v1.0):** https://doi.org/10.5281/zenodo.17373021
 ## How to cite
+If you use IEH (Δ) concept:
 M. Wlodarczyk, “**Implosive Edge Hypothesis (IEH) and the Change Measure Δ — concept note**,” Zenodo, v1.0, 2025. DOI: https://doi.org/10.5281/zenodo.17373021.
+If you use the time-travel extension:
+M. Wlodarczyk, “**Non-Repeating Past Paradigm (PNP): a Δ-based state selection rule.**,” Zenodo, v1.0, 2025. DOI: https://doi.org/10.5281/zenodo.17516778.
+(links to the IEH record as a supplement)
 
 **BibTeX**
 @misc{ieh_delta_concept_v1,
@@ -66,7 +70,7 @@ M. Wlodarczyk, “**Implosive Edge Hypothesis (IEH) and the Change Measure Δ �
 
 ## Related documents
 - IEH: change-measure Δ (concept note) — DOI: 10.5281/zenodo.17373021
-- PNP: Non-Repeating Past Paradigm (state-selection rule for time travel)
+- PNP: Non-Repeating Past Paradigm (state-selection rule for time travel) — DOI: 10.5281/zenodo.17516778
 
 ## License
 Text and figures: **CC BY 4.0** (Creative Commons Attribution 4.0).  
