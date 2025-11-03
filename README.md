@@ -39,6 +39,9 @@ dχ_obs/dλ = (χ_true − χ_obs) / τ_inertia
 - **Phase decoherence at Σ**: rising phase dispersion at the highest redshifts (EM/GW).  
 - **Hysteresis between Δ_T and Δ_a** during the transition.
 
+### Related document
+- **Non-Repeating Past Paradigm (PNP):** a Δ-based state-selection rule for time travel. It assumes that backward transitions return to a macro-compatible but micro-distinct past, and that the operational age `Age_Δ` remains monotonic. Intended to remove classical time-travel paradoxes. (published on Zenodo; linked as supplement to the IEH record)
+
 ## Repository layout
 / (root)  
 ├── IEH_ChangeMeasure_Delta_concept_note_v1.0.pdf # main PDF  
