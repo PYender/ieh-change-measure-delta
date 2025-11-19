@@ -41,6 +41,11 @@ dχ_obs/dλ = (χ_true − χ_obs) / τ_inertia
 
 ### Related document
 - **Non-Repeating Past Paradigm (PNP):** a Δ-based state-selection rule for time travel. It assumes that backward transitions return to a macro-compatible but micro-distinct past, and that the operational age `Age_Δ` remains monotonic. Intended to remove classical time-travel paradoxes. (published on Zenodo; linked as supplement to the IEH record)
+- ### Screening Chaos (v0.1) — status
+This document is an early exploratory note (v0.1), written as an ad hoc working paper within the IEH/PNP universe. It introduces two key ideas:
+- **screening chaos** — a two-step procedure that maximises the modelled event space ℰ (all scenarios with P>0) and then defines chaos χ as the residual complement Ω\ℰ, treated by analogy with an impact source in EIA;  
+- **return strings** — marker-based guidance structures (“return buoys”) laid along a trajectory and later used to select minimally deforming return paths under the Non-Repeating Past Paradigm (PNP).
+It is methodologicaly open and should be read as a concept note rather than a finished theory.
 
 ## Repository layout
 / (root)  
