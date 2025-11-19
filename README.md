@@ -45,7 +45,8 @@ dχ_obs/dλ = (χ_true − χ_obs) / τ_inertia
 ## Repository layout
 / (root)  
 ├── IEH_ChangeMeasure_Delta_concept_note_v1.0.pdf # main PDF  
-├── PNP_NonRepeating_Past_Paradigm_to_IEH_v1.0.pdf # (state-selection rule for time travel)  
+├── PNP_NonRepeating_Past_Paradigm_to_IEH_v1.0.pdf # (state-selection rule for time travel)
+├── Screening Chaos_0.1 (exploratory concept note aligned with IEH v1.0.2 and PNP v1.0)
 ├── figures/ # optional figures (PNG/SVG/PDF)  
 ├── tex/ # optional TeX sources (if used)  
 ├── LICENSE # e.g., CC BY 4.0  
@@ -74,6 +75,7 @@ M. Wlodarczyk, “**Non-Repeating Past Paradigm (PNP): a Δ-based state selectio
 ## Related documents
 - IEH: change-measure Δ (concept note) — DOI: 10.5281/zenodo.17373021
 - PNP: Non-Repeating Past Paradigm (state-selection rule for time travel) — DOI: 10.5281/zenodo.17516778
+- Screening Chaos: χ & PNP — **v0.1 (early exploratory note)**
 
 ## License
 Text and figures: **CC BY 4.0** (Creative Commons Attribution 4.0).  
