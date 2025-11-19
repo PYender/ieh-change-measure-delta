@@ -48,13 +48,15 @@ This document is an early exploratory note (v0.1), written as an ad hoc working 
 It is methodologicaly open and should be read as a concept note rather than a finished theory.
 
 ## Repository layout
-/ (root)  
-├── IEH_ChangeMeasure_Delta_concept_note_v1.0.pdf # main PDF  
-├── PNP_NonRepeating_Past_Paradigm_to_IEH_v1.0.pdf # (state-selection rule for time travel)
-├── Screening Chaos_0.1 (exploratory concept note aligned with IEH v1.0.2 and PNP v1.0)
-├── figures/ # optional figures (PNG/SVG/PDF)  
-├── tex/ # optional TeX sources (if used)  
-├── LICENSE # e.g., CC BY 4.0  
+
+```text
+/  # repository root
+├── IEH_ChangeMeasure_Delta_concept_note_v1.0.pdf      # main IEH concept note
+├── PNP_NonRepeating_Past_Paradigm_to_IEH_v1.0.pdf     # state-selection rule for time travel (PNP)
+├── Screening_Chaos_v0.1.pdf                           # exploratory concept note on χ & screening chaos
+├── figures/                                           # figures (PNG/SVG/PDF)
+├── tex/                                               # optional TeX sources
+├── LICENSE                                            # license file (e.g. CC BY-NC-ND 4.0)
 └── README.md
 
 **Concept DOI:** https://doi.org/10.5281/zenodo.17373020
