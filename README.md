@@ -80,7 +80,7 @@ M. Wlodarczyk, “**Non-Repeating Past Paradigm (PNP): a Δ-based state selectio
 ## Related documents
 - IEH: change-measure Δ (concept note) — DOI: 10.5281/zenodo.17373021
 - PNP: Non-Repeating Past Paradigm (state-selection rule for time travel) — DOI: 10.5281/zenodo.17516778
-- Screening Chaos: χ & PNP — **v0.1 (early exploratory note)**
+- Screening Chaos: Impact Assessment of the Chaos Function χ and Its Link to the Non-Repeating Past Paradigm (PNP)  — **v0.1 (early exploratory note)** — DOI: 10.5281/zenodo.17650719 (all versions: 10.5281/zenodo.17650718)
 
 ## License
 Text and figures: **CC BY 4.0** (Creative Commons Attribution 4.0).  
