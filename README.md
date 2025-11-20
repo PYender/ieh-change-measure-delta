@@ -85,8 +85,10 @@ M. Wlodarczyk, “**Non-Repeating Past Paradigm (PNP): a Δ-based state selectio
 - Screening Chaos: Impact Assessment of the Chaos Function χ and Its Link to the Non-Repeating Past Paradigm (PNP)  — **v0.1 (early exploratory note)** — DOI: 10.5281/zenodo.17650719 (all versions: 10.5281/zenodo.17650718)
 
 ## License
-Text and figures: **CC BY 4.0** (Creative Commons Attribution 4.0).  
-If any code/scripts are included, consider **MIT** or **Apache-2.0** for them.
+By default, text and figures in this repository are licensed under **CC BY 4.0** (Creative Commons Attribution 4.0 International).
+**Exception:**  
+*Screening Chaos: Impact Assessment of the Chaos Function χ and Its Link to the Non-Repeating Past Paradigm (PNP) — v0.1 (early exploratory note) — DOI: 10.5281/zenodo.17650718* is licensed under **CC BY-NC-ND 4.0** (Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International).
+If any code/scripts are included, they may be released under **MIT** or **Apache-2.0** licenses.
 
 ## Contact
 Author: **Mariusz Wlodarczyk**
