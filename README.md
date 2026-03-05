@@ -40,38 +40,33 @@ dχ_obs/dλ = (χ_true − χ_obs) / τ_inertia
 - **Phase decoherence at Σ**: rising phase dispersion at the highest redshifts (EM/GW).  
 - **Hysteresis between Δ_T and Δ_a** during the transition.
 
-## Related document
-- **Non-Repeating Past Paradigm (PNP)**: a Δ-based state-selection rule for time travel. It assumes that backward transitions return to a macro-compatible but micro-distinct past, and that the operational age `Age_Δ` remains monotonic. Intended to remove classical time-travel paradoxes. (published on Zenodo; linked as supplement to the IEH record)
+## Related documents
 
-## Screening Chaos (v0.1), status
-This document is an early exploratory note (v0.1), written as an ad hoc working paper within the IEH/PNP universe. It introduces two key ideas:
-- **screening chaos**: a two-step procedure that maximises the modelled event space ℰ (all scenarios with P > 0 under the current model) and then defines chaos χ as the residual complement Ω\ℰ, treated by analogy with an impact source in EIA  
-- **return strings**: marker-based guidance structures (“return buoys”) laid along a trajectory and later used to select minimally deforming return paths under the Non-Repeating Past Paradigm (PNP)
+**Non-Repeating Past Paradigm (PNP):** a Δ-based state-selection rule for time travel. It assumes that backward transitions return to a macro-compatible but micro-distinct past, and that the operational age `Age_Δ` remains monotonic. Intended to remove classical time-travel paradoxes. (published on Zenodo; linked as supplement to the IEH record)  
+DOI (v2.0): https://doi.org/10.5281/zenodo.1788104
 
-It is methodologically open and should be read as a concept note rather than a finished theory.
+**Screening Chaos: Impact Assessment of the Chaos Function χ and Its Link to the Non-Repeating Past Paradigm (PNP):** this document is an early exploratory note, written as a working paper within the IEH/PNP universe. It introduces a few key ideas:  
+1. **screening chaos:** a two-step procedure that maximises the modelled event space ℰ (all scenarios with P > 0 under the current model) and then defines chaos χ as the residual complement Ω\ℰ, treated by analogy with an impact source in EIA  
+2. **return strings:** marker-based guidance structures (“return buoys”) laid along a trajectory and later used to select minimally deforming return paths under the Non-Repeating Past Paradigm (PNP)  
+It is methodologically open and should be read as a concept note rather than a finished theory.  
+DOI (v0.1): https://doi.org/10.5281/zenodo.17650719
 
-How to cite
-If you use IEH (Δ) concept:
-M. Wlodarczyk, “Implosive Edge Hypothesis (IEH) and the Change Measure Δ, concept note,” Zenodo, v1.0, 2025. DOI: https://doi.org/10.5281/zenodo.17373021
-.
+**Supplement to Screening Chaos: Converted χ, Strategic Advantage Through Chaos-to-Probability Transformation:** this supplement introduces the third regime, Converted χ, defined as chaos that has been systematically captured, transformed, and incorporated into ℰ through novel formalisms. It frames χ → P conversion as a qualitative strategic advantage (structural, non-transferable) and outlines a speculative programme for boundary-operating “chaotic equations” as conversion operators.  
+DOI (v0.1_2026): **TBD after Zenodo publication**
 
-If you use the time-travel extension (PNP v2.0):
-M. Wlodarczyk, “Non-Repeating Past Paradigm (PNP): a Δ-based state selection rule,” Zenodo, v2.0, 2025. DOI: https://doi.org/10.5281/zenodo.1788104
-.
-(Linked to the IEH record as a supplement.)
+## How to cite
 
-If you use Screening Chaos (v0.1):
-M. Wlodarczyk, “Screening Chaos: Impact Assessment of the Chaos Function χ and Its Link to the Non-Repeating Past Paradigm (PNP),” Zenodo, v0.1, 2025. DOI: https://doi.org/10.5281/zenodo.17650719
-.
+If you use IEH (Δ) concept:  
+M. Wlodarczyk, “**Implosive Edge Hypothesis (IEH) and the Change Measure Δ, concept note**,” Zenodo, v1.0, 2025. DOI: https://doi.org/10.5281/zenodo.17373021.
 
-If you use the Supplement to Screening Chaos (v0.1_2026):
-M. Wlodarczyk, “Supplement to Screening Chaos: Converted χ, Strategic Advantage Through Chaos-to-Probability Transformation,” Zenodo, v0.1_2026, 2026. DOI: [TBD after Zenodo publication].
+If you use the time-travel extension (PNP v2.0):  
+M. Wlodarczyk, “**Non-Repeating Past Paradigm (PNP): a Δ-based state selection rule**,” Zenodo, v2.0, 2025. DOI: https://doi.org/10.5281/zenodo.1788104. (Linked to the IEH record as a supplement.)
 
-Related documents
-IEH: change-measure Δ, concept note (v1.0): DOI: 10.5281/zenodo.17373021
-PNP: Non-Repeating Past Paradigm (v2.0): DOI: 10.5281/zenodo.1788104
-Screening Chaos: Impact Assessment of the Chaos Function χ and Its Link to the Non-Repeating Past Paradigm (PNP), v0.1: DOI: 10.5281/zenodo.17650719
-Supplement to Screening Chaos (Converted χ: Strategic Advantage Through Chaos-to-Probability Transformation), v0.1_2026: DOI: [TBD after Zenodo publication]
+If you use Screening Chaos (v0.1):  
+M. Wlodarczyk, “**Screening Chaos: Impact Assessment of the Chaos Function χ and Its Link to the Non-Repeating Past Paradigm (PNP)**,” Zenodo, v0.1, 2025. DOI: https://doi.org/10.5281/zenodo.17650719.
+
+If you use the Supplement to Screening Chaos (v0.1_2026):  
+M. Wlodarczyk, “**Supplement to Screening Chaos: Converted χ, Strategic Advantage Through Chaos-to-Probability Transformation**,” Zenodo, v0.1_2026, 2026. DOI: **TBD after Zenodo publication**.
 
 License
 By default, text and figures in this repository are licensed under CC BY 4.0 (Creative Commons Attribution 4.0 International).
