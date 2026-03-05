@@ -1,9 +1,10 @@
-# ieh-change-measure-delta
-IEH + Δ reframes cosmic evolution without “past–present–future.” Age_Δ = w_a·Δ_a + w_T·Δ_T stays monotonic through expansion→implosion. The edge is unseen because implosion-dominated mixing blocks coherent outward signals, while observational inertia can briefly mimic continued expansion.
-# Implosive Edge Hypothesis (IEH) and the Change Measure Δ — concept note (open for expert review)
+# Implosive Edge Hypothesis (IEH) and the Change Measure Δ
+IEH and Δ reframe cosmic evolution without “past–present–future.” `Age_Δ = w_a·Δ_a + w_T·Δ_T` stays monotonic through expansion to implosion. The edge is unseen because implosion-dominated mixing blocks coherent outward signals, while observational inertia can briefly mimic continued expansion.
+
+## IEH and the Change Measure Δ, concept note (open for expert review)
 
 **Short abstract**  
-This concept note introduces the Implosive Edge Hypothesis (IEH) together with an orientation-free change measure Δ for cosmological evolution. Instead of “time,” we use Δ_a = ∫ |d ln a| and Δ_T = ∫ |d ln T_CMB|, and define an operational age Age_Δ = w_a · Δ_a + w_T · Δ_T, which remains **monotonic** through both expansion and implosion. IEH models the “edge” of the universe as an implosion-dominated mixing zone Σ that blocks coherent outward transmission; **observational inertia** (μ, τ_inertia) explains why observations can still look expansion-like during transitions. The note lists falsifiable predictions (redshift-drift sign reversal, CMB trend reversal, phase decoherence, Δ_T–Δ_a hysteresis) and a minimal measurement protocol. It is open for expert review.
+This concept note introduces the Implosive Edge Hypothesis (IEH) together with an orientation-free change measure Δ for cosmological evolution. Instead of “time,” we use `Δ_a = ∫ |d ln a|` and `Δ_T = ∫ |d ln T_CMB|`, and define an operational age `Age_Δ = w_a · Δ_a + w_T · Δ_T`, which remains **monotonic** through both expansion and implosion. IEH models the “edge” of the universe as an implosion-dominated mixing zone Σ that blocks coherent outward transmission. **Observational inertia** (μ, τ_inertia) explains why observations can still look expansion-like during transitions. The note lists falsifiable predictions (redshift-drift sign reversal, CMB trend reversal, phase decoherence, Δ_T–Δ_a hysteresis) and a minimal measurement protocol. It is open for expert review.
 
 ## Key formulas (Unicode)
 Δ_a = ∫ |d ln a|  Δ_T = ∫ |d ln T_CMB|  
@@ -11,27 +12,27 @@ Age_Δ = w_a · Δ_a + w_T · Δ_T
 H_eff = μ · H_+ + (1 − μ) · H_−  with H_+ > 0, H_− < 0  
 dχ_obs/dλ = (χ_true − χ_obs) / τ_inertia
 
-## Unified symbols & terms (Unicode, brief)
-- **χ ∈ {+1, −1}** — global orientation of change (+1 expansion, −1 implosion).  
-- **μ ∈ [0, 1]** — line-of-sight expansion fraction through Σ (1−μ samples implosion).  
-- **τ_inertia > 0** — observational inertia timescale (lag).  
-- **Σ** — mixing zone (“edge”): outward radiation fails to develop net divergence; phase information is lost (hence no coherent outward signal).  
-- **a** — scale factor. **T_CMB** — CMB temperature (≈ 2.725 K today).  
-- **Δ_a, Δ_T** — accumulated log-changes of a and T_CMB.  
-- **Age_Δ** — operational age of change (linear in Δ_a, Δ_T).  
-- **z** — redshift; **ż** — redshift drift, ż = dz/dt_obs.
+## Unified symbols and terms (Unicode, brief)
+- **χ ∈ {+1, −1}**: global orientation of change (+1 expansion, −1 implosion).  
+- **μ ∈ [0, 1]**: line-of-sight expansion fraction through Σ (1−μ samples implosion).  
+- **τ_inertia > 0**: observational inertia timescale (lag).  
+- **Σ**: mixing zone (“edge”): outward radiation fails to develop net divergence; phase information is lost (hence no coherent outward signal).  
+- **a**: scale factor. **T_CMB**: CMB temperature (≈ 2.725 K today).  
+- **Δ_a, Δ_T**: accumulated log-changes of a and T_CMB.  
+- **Age_Δ**: operational age of change (linear in Δ_a, Δ_T).  
+- **z**: redshift. **ż**: redshift drift, ż = dz/dt_obs.
 
 ## Minimal measurement protocol (sketch)
-1. **Zero point**: set Age_Δ(today) = 0 at (a₀, T₀).  
+1. **Zero point**: set `Age_Δ(today) = 0` at (a₀, T₀).  
 2. **Accumulate Δ from observables**:  
-   Δ_a = |ln(a/a₀)| = |ln((1+z₀)/(1+z))|; Δ_T = |ln(T_CMB/T₀)|.  
+   `Δ_a = |ln(a/a₀)| = |ln((1+z₀)/(1+z))|`; `Δ_T = |ln(T_CMB/T₀)|`.  
 3. **Infer orientation and inertia**:  
-   χ_obs from the sign of ż and the trend of T_CMB (↓ expansion, ↑ implosion);  
-   μ via joint fits of ż, Hubble-diagram curvature, and phase-coherence metrics (EM/GW);  
+   χ_obs from the sign of ż and the trend of T_CMB (↓ expansion, ↑ implosion).  
+   μ via joint fits of ż, Hubble-diagram curvature, and phase-coherence metrics (EM/GW).  
    τ_inertia from the delay between the ż sign flip and the T_CMB trend reversal.  
 4. **Report**: Age_Δ (monotonic), χ_obs, and (μ, τ_inertia); infer χ_true.
 
-> Note: The relation `H_eff = μ · H_+ + (1 − μ) · H_−` is a **linear mixing heuristic** along a sightline; in general μ = μ( n̂, z ) may vary with direction and depth.
+> Note: The relation `H_eff = μ · H_+ + (1 − μ) · H_−` is a linear mixing heuristic along a sightline. In general, μ = μ( n̂, z ) may vary with direction and depth.
 
 ## Distinct predictions (falsifiable)
 - **Redshift-drift sign reversal** when χ_true flips; during inertia, mixed signs across directions due to varying μ( n̂ ).  
@@ -39,60 +40,99 @@ dχ_obs/dλ = (χ_true − χ_obs) / τ_inertia
 - **Phase decoherence at Σ**: rising phase dispersion at the highest redshifts (EM/GW).  
 - **Hysteresis between Δ_T and Δ_a** during the transition.
 
-### Related document
-- **Non-Repeating Past Paradigm (PNP):** a Δ-based state-selection rule for time travel. It assumes that backward transitions return to a macro-compatible but micro-distinct past, and that the operational age `Age_Δ` remains monotonic. Intended to remove classical time-travel paradoxes. (published on Zenodo; linked as supplement to the IEH record)
-- ### Screening Chaos (v0.1) — status
+## Related document
+- **Non-Repeating Past Paradigm (PNP)**: a Δ-based state-selection rule for time travel. It assumes that backward transitions return to a macro-compatible but micro-distinct past, and that the operational age `Age_Δ` remains monotonic. Intended to remove classical time-travel paradoxes. (published on Zenodo; linked as supplement to the IEH record)
+
+## Screening Chaos (v0.1), status
 This document is an early exploratory note (v0.1), written as an ad hoc working paper within the IEH/PNP universe. It introduces two key ideas:
-- **screening chaos** — a two-step procedure that maximises the modelled event space ℰ (all scenarios with P>0) and then defines chaos χ as the residual complement Ω\ℰ, treated by analogy with an impact source in EIA;  
-- **return strings** — marker-based guidance structures (“return buoys”) laid along a trajectory and later used to select minimally deforming return paths under the Non-Repeating Past Paradigm (PNP).
-It is methodologicaly open and should be read as a concept note rather than a finished theory.
+- **screening chaos**: a two-step procedure that maximises the modelled event space ℰ (all scenarios with P > 0 under the current model) and then defines chaos χ as the residual complement Ω\ℰ, treated by analogy with an impact source in EIA  
+- **return strings**: marker-based guidance structures (“return buoys”) laid along a trajectory and later used to select minimally deforming return paths under the Non-Repeating Past Paradigm (PNP)
+
+It is methodologically open and should be read as a concept note rather than a finished theory.
+
+How to cite
+If you use IEH (Δ) concept:
+M. Wlodarczyk, “Implosive Edge Hypothesis (IEH) and the Change Measure Δ, concept note,” Zenodo, v1.0, 2025. DOI: https://doi.org/10.5281/zenodo.17373021
+.
+
+If you use the time-travel extension (PNP v2.0):
+M. Wlodarczyk, “Non-Repeating Past Paradigm (PNP): a Δ-based state selection rule,” Zenodo, v2.0, 2025. DOI: https://doi.org/10.5281/zenodo.1788104
+.
+(Linked to the IEH record as a supplement.)
+
+If you use Screening Chaos (v0.1):
+M. Wlodarczyk, “Screening Chaos: Impact Assessment of the Chaos Function χ and Its Link to the Non-Repeating Past Paradigm (PNP),” Zenodo, v0.1, 2025. DOI: https://doi.org/10.5281/zenodo.17650719
+.
+
+If you use the Supplement to Screening Chaos (v0.1_2026):
+M. Wlodarczyk, “Supplement to Screening Chaos: Converted χ, Strategic Advantage Through Chaos-to-Probability Transformation,” Zenodo, v0.1_2026, 2026. DOI: [TBD after Zenodo publication].
+
+Related documents
+IEH: change-measure Δ, concept note (v1.0): DOI: 10.5281/zenodo.17373021
+PNP: Non-Repeating Past Paradigm (v2.0): DOI: 10.5281/zenodo.1788104
+Screening Chaos: Impact Assessment of the Chaos Function χ and Its Link to the Non-Repeating Past Paradigm (PNP), v0.1: DOI: 10.5281/zenodo.17650719
+Supplement to Screening Chaos (Converted χ: Strategic Advantage Through Chaos-to-Probability Transformation), v0.1_2026: DOI: [TBD after Zenodo publication]
+
+License
+By default, text and figures in this repository are licensed under CC BY 4.0 (Creative Commons Attribution 4.0 International).
+Exception:
+Screening Chaos: Impact Assessment of the Chaos Function χ and Its Link to the Non-Repeating Past Paradigm (PNP), v0.1 (early exploratory note) and any related supplements/appendices (including the Supplement to Screening Chaos) are licensed under CC BY-NC-ND 4.0 (Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International).
+
+If any code/scripts are included, they may be released under MIT or Apache-2.0 licenses.
+
+Contact
+
+Author: Mariusz Wlodarczyk
+Contact: mariusz.wlodarczyk@hotmail.com
 
 ## Repository layout
-
 ```text
 /  # repository root
-├── IEH_ChangeMeasure_Delta_concept_note_v1.0.pdf      # main IEH concept note
-├── PNP_NonRepeating_Past_Paradigm_to_IEH_v1.0.pdf     # state-selection rule for time travel (PNP)
-├── Screening_Chaos_v0.1.pdf                           # exploratory concept note on χ & screening chaos
-├── figures/                                           # figures (PNG/SVG/PDF)
-├── tex/                                               # optional TeX sources
-├── LICENSE                                            # license file (e.g. CC BY-NC-ND 4.0)
+├── IEH_ChangeMeasure_Delta_concept_note_v1.0.pdf                 # main IEH concept note
+├── PNP_NonRepeating_Past_Paradigm_to_IEH_v2.0.pdf                # state-selection rule for time travel (PNP)
+├── Screening_Chaos_v0.1.pdf                                      # exploratory concept note on χ and screening chaos
+├── Supplement_to_Screening_Chaos_Converted_chi_v0.1_2026.pdf     # supplement (no Zenodo DOI yet)
+├── figures/                                                      # figures (PNG/SVG/PDF)
+├── tex/                                                          # optional TeX sources
+├── LICENSE                                                       # repository default license (CC BY 4.0) with a documented exception
 └── README.md
 
-**Concept DOI:** https://doi.org/10.5281/zenodo.17373020
-**This version DOI (v1.0):** https://doi.org/10.5281/zenodo.17373021
-## How to cite
-If you use IEH (Δ) concept:
-M. Wlodarczyk, “**Implosive Edge Hypothesis (IEH) and the Change Measure Δ — concept note**,” Zenodo, v1.0, 2025. DOI: https://doi.org/10.5281/zenodo.17373021.
-If you use the time-travel extension:
-M. Wlodarczyk, “**Non-Repeating Past Paradigm (PNP): a Δ-based state selection rule.**,” Zenodo, v1.0, 2025. DOI: https://doi.org/10.5281/zenodo.17516778.
-(links to the IEH record as a supplement)
-
-**BibTeX**
 @misc{ieh_delta_concept_v1,
-  author       = {Wlodarczyk, Mariusz},
-  title        = {Implosive Edge Hypothesis (IEH) and the Change Measure Δ — concept note},
-  year         = {2025},
-  version      = {v1.0},
-  publisher    = {Zenodo},
-  doi          = {[10.5281/zenodo.17373021)},
-  url          = {[https://doi.org/10.5281/zenodo.17373021)}
+  author    = {Wlodarczyk, Mariusz},
+  title     = {Implosive Edge Hypothesis (IEH) and the Change Measure Δ, concept note},
+  year      = {2025},
+  version   = {v1.0},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.17373021},
+  url       = {https://doi.org/10.5281/zenodo.17373021}
 }
 
-## Related documents
-- IEH: change-measure Δ (concept note) — DOI: 10.5281/zenodo.17373021
-- PNP: Non-Repeating Past Paradigm (state-selection rule for time travel) — DOI: 10.5281/zenodo.17516778
-- Screening Chaos: Impact Assessment of the Chaos Function χ and Its Link to the Non-Repeating Past Paradigm (PNP)  — **v0.1 (early exploratory note)** — DOI: 10.5281/zenodo.17650719 (all versions: 10.5281/zenodo.17650718)
+@misc{pnp_v2,
+  author    = {Wlodarczyk, Mariusz},
+  title     = {Non-Repeating Past Paradigm (PNP): a Δ-based state selection rule},
+  year      = {2025},
+  version   = {v2.0},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.1788104},
+  url       = {https://doi.org/10.5281/zenodo.1788104}
+}
 
-## License
-By default, text and figures in this repository are licensed under **CC BY 4.0** (Creative Commons Attribution 4.0 International).
-**Exception:**  
-*Screening Chaos: Impact Assessment of the Chaos Function χ and Its Link to the Non-Repeating Past Paradigm (PNP) — v0.1 (early exploratory note) — DOI: 10.5281/zenodo.17650718* is licensed under **CC BY-NC-ND 4.0** (Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International).
-If any code/scripts are included, they may be released under **MIT** or **Apache-2.0** licenses.
+@misc{screening_chaos_v01,
+  author    = {Wlodarczyk, Mariusz},
+  title     = {Screening Chaos: Impact Assessment of the Chaos Function χ and Its Link to the Non-Repeating Past Paradigm (PNP)},
+  year      = {2025},
+  version   = {v0.1},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.17650719},
+  url       = {https://doi.org/10.5281/zenodo.17650719}
+}
 
-## Contact
-Author: **Mariusz Wlodarczyk**
-Contact: **mariusz.wlodarczyk@hotmail.com**
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17373021.svg)](https://doi.org/10.5281/zenodo.17373021)
-**Latest release (v1.0.2):** https://doi.org/10.5281/zenodo.17373021
+@misc{supplement_screening_chaos_converted_chi_v01_2026,
+  author    = {Wlodarczyk, Mariusz},
+  title     = {Supplement to Screening Chaos: Converted χ, Strategic Advantage Through Chaos-to-Probability Transformation},
+  year      = {2026},
+  version   = {v0.1_2026},
+  publisher = {Zenodo},
+  doi       = {TBD},
+  url       = {TBD}
+}
