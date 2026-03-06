@@ -52,7 +52,7 @@ It is methodologically open and should be read as a concept note rather than a f
 DOI (v0.1): https://doi.org/10.5281/zenodo.17650719
 
 **Supplement to Screening Chaos: Converted χ, Strategic Advantage Through Chaos-to-Probability Transformation:** this supplement introduces the third regime, Converted χ, defined as chaos that has been systematically captured, transformed, and incorporated into ℰ through novel formalisms. It frames χ → P conversion as a qualitative strategic advantage (structural, non-transferable) and outlines a speculative programme for boundary-operating “chaotic equations” as conversion operators.  
-DOI (v0.1_2026): **TBD after Zenodo publication**
+DOI (v0.1): https://doi.org/10.5281/zenodo.18886513
 
 ## How to cite
 
@@ -66,7 +66,7 @@ If you use Screening Chaos (v0.1):
 M. Wlodarczyk, “**Screening Chaos: Impact Assessment of the Chaos Function χ and Its Link to the Non-Repeating Past Paradigm (PNP)**,” Zenodo, v0.1, 2025. DOI: https://doi.org/10.5281/zenodo.17650719.
 
 If you use the Supplement to Screening Chaos (v0.1_2026):  
-M. Wlodarczyk, “**Supplement to Screening Chaos: Converted χ, Strategic Advantage Through Chaos-to-Probability Transformation**,” Zenodo, v0.1_2026, 2026. DOI: **TBD after Zenodo publication**.
+M. Wlodarczyk, “**Supplement to Screening Chaos: Converted χ, Strategic Advantage Through Chaos-to-Probability Transformation**,” Zenodo, v0.1_2026, 2026. DOI: https://doi.org/10.5281/zenodo.18886513.
 
 License
 By default, text and figures in this repository are licensed under CC BY 4.0 (Creative Commons Attribution 4.0 International).
