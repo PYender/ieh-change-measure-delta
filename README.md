@@ -122,12 +122,12 @@ Contact: mariusz.wlodarczyk@hotmail.com
   url       = {https://doi.org/10.5281/zenodo.17650719}
 }
 
-@misc{supplement_screening_chaos_converted_chi_v01_2026,
+@misc{supplement_screening_chaos_converted_chi_v1,
   author    = {Wlodarczyk, Mariusz},
   title     = {Supplement to Screening Chaos: Converted χ, Strategic Advantage Through Chaos-to-Probability Transformation},
   year      = {2026},
-  version   = {v0.1_2026},
+  version   = {v1},
   publisher = {Zenodo},
-  doi       = {TBD},
-  url       = {TBD}
+  doi       = {10.5281/zenodo.18886513},
+  url       = {https://doi.org/10.5281/zenodo.18886513}
 }
